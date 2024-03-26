@@ -18,3 +18,12 @@ header-includes:
 Celem tej prezentacji jest przybliżenie wiedzy na temat jachtów żaglowych pływających po polskich wodach. Ich różnorodność może zaskoczyć niejedną osobę.
 ![&nbsp; Port](port.jpeg)
 
+## Polskie stocznie
+
+Przemysł stoczniowy w naszym kraju działa bardzo prężnie.
+Nie inaczej jest w niszy, jaką niewątpliwie jest produkcja jachtów żaglowych. Polskie łodzie i statki są w tej branży znane i cenione na całym świecie. Oto kilku z najpopularniejszych rodzimych producentów:
+
+* **Delphia Yachts**
+* **Ostróda Yachts**
+* **Northman Shipyard**
+* **Antila Yachts**
