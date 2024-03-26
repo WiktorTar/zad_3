@@ -37,3 +37,7 @@ Oprócz niedużych jachtów, na wodach, w szczególności na morzach i oceanach,
 Bez wątpienia żeglarstwo samo w sobie jest sportem, jednak pewne jego odmiany są związane głownie z turystyką. Jednak nie można pomijać równie szerokiej i ciekawej niszy jakim jest żeglarstwo regatowe, czyli wyścigowe. Dzieci od najmłodszych lat ścigają się na małych, kanciastych łódkach klasy Optimist, by w następnych latach przesiąść się na większe i szybsze jachty klasy Laser, 420 i wiele, wiele innych.
 ![&nbsp; Regaty Optimist](opti.jpeg)
 
+## Jachty śródlądowe
+
+W Polsce stosunkowo popularne jest żeglarstwo śródlądowe. W tym wypadku bardzo dobrze sprawdzają się jachty z mieczem - ruchomą płetwą balastową opuszczaną pod jachtem, która dzięki możliwości podnoszenia w przeciwieństwie do balastu stałego umożliwia podpłynięcie bardzo blisko płytkiego brzegu. Ceną za takie ułatwienie jest mniejsza stateczność, jednak  warunki panujące na jeziorach są zazwyczaj na tyle łagodne, że mimo wszystko jest ona wystarczająca.
+![&nbsp; Miecz vs balast](miecz.png)
