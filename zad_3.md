@@ -27,3 +27,7 @@ Nie inaczej jest w niszy, jaką niewątpliwie jest produkcja jachtów żaglowych
 * **Ostróda Yachts**
 * **Northman Shipyard**
 * **Antila Yachts**
+
+## Polskie żaglowce
+Oprócz niedużych jachtów, na wodach, w szczególności na morzach i oceanach, możemy spotkać także wielkie, majestatyczne żaglowce. Najbardziej znane w Polsce to **Dar Młodzierzy**, **Fryderyk Chopin**, **Pogoria** i **Zawisza Czarny**. Żaglowce z całego świata można podziwiać podczas imprezy Tall Ship Races, która w 2017 roku odbyła się m. in. w Szczecinie.
+![&nbsp; Tallships Szczecin](tallships.jpeg)
